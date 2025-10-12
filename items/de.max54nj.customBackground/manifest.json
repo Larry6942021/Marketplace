@@ -1,0 +1,16 @@
+{
+  "name": "Custom Background",
+  "type": "Addon",
+  "author": "Max54nj",
+  "icon": "Icon.png",
+  "file": "de.max54nj.customBackground.dll",
+  "links": {
+    "issuesUrl": "https://github.com/max54nj/SkEditor-Custom-Background/issues",
+    "repositoryUrl": "https://github.com/max54nj/SkEditor-Custom-Background",
+    "changelogUrl": "https://github.com/max54nj/SkEditor-Custom-Background/releases/latest"
+  },
+  "shortDescription": "Custom background images for SkEditor!",
+  "longDescription": "As the name suggests, this Addon lets you customize your background even further.\n\nFeatures:\n- Custom Images\n- Toggle Transparency for editor.\n\nComing soon:\n- Custom opacity\n- Background Blur\n- maybe gif and videos?\n\nYou can suggest a feature by opening an issue on GitHub or via DM on Discord.\n\nAvailable Translations:\n- English\n- German\n\nGitHub: https://github.com/max54nj/SkEditor-Custom-Background\nDiscord: max54nj",
+  "version": "1.0.0",
+  "requiresRestart": false
+}
