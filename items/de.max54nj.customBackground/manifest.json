@@ -10,7 +10,7 @@
     "changelogUrl": "https://github.com/max54nj/SkEditor-Custom-Background/releases/latest"
   },
   "shortDescription": "Custom background images for SkEditor!",
-  "longDescription": "As the name suggests, this Addon lets you customize your background even further.\n\nFeatures:\n- Custom Images\n- Toggle transparency for editor.\n- Custom opacity\n- Background image blur\n\nComing soon:\n- Customizable sub windows\n- Customizable context menus\n- Api for other addons\n- Maybe proper gif and video support?\n\nYou can suggest a feature or report a bug by opening an issue on GitHub or via DM on Discord.\n\nAvailable Translations:\n- English\n- German\n\nGitHub: https://github.com/max54nj/SkEditor-Custom-Background\nDiscord: max54nj",
+  "longDescription": "As the name suggests, this Addon lets you customize your background even further.\n\nFeatures:\n- Custom Images\n- Toggle transparency for editor.\n- Custom opacity\n- Background image blur\n\nComing soon:\n- Customizable sub windows\n- Customizable context menus\n- Api for other addons\n- Maybe proper gif and video support?\n\nYou can suggest a feature or report a bug by opening an issue on GitHub or via DM on Discord.\n\nKnown issues:\n- The \"Keep Editor Background\" can't be disabled properly, when SkEditor is startet with this option enabled. For now restarting the editor fixes the problem temporarily.\n\nAvailable Translations:\n- English\n- German\n\nIf you can speak another language, feel free to add it by opening a pull request on GitHub!\n\nGitHub: https://github.com/max54nj/SkEditor-Custom-Background\nDiscord: max54nj",
   "version": "1.0.1",
   "requiresRestart": false
 }
