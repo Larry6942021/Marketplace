@@ -1,0 +1,12 @@
+{
+  "name": "VSC Skript",
+  "type": "NewSyntax",
+  "author": "Larry6942021",
+  "icon": "skript.png",
+  "syntaxFolders": [
+    "VSC-Skript"
+  ],
+  "shortDescription": "VSC-like Skript syntax highlighting",
+  "longDescription": "Visual Studio Code Syntax Highlights for Skript - By Larry6942021",
+  "version": "1.0.0"
+}

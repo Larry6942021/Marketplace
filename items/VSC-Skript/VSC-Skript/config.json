@@ -1,0 +1,9 @@
+{
+    "SyntaxName": "VSC Skript",
+    "LanguageName": "Skript",
+    "Extensions": [
+        ".skript",
+        ".sk"
+    ],
+    "Version": "1.0.0"
+}
